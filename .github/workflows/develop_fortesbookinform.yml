@@ -39,4 +39,4 @@ jobs:
           app-name: 'FortesBookinForm'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_769D06A4386447FCA576BB6173D789CC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30F2A692ACB34F77A19D34C2F39A5AAA }}
